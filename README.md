@@ -3,7 +3,7 @@ The PDF contains the final project developed using GROMACS to analyze molecular 
 
 The study included the analysis of RMSD, RMSF, radius of gyration, and energy profiles, demonstrating the critical role of solvent interactions in maintaining structural stability and realistic protein behavior.
 
-This course was offered by the Max Planck Institute for Polymer Research in collaboration with Heidelberg University.
+This course was taken during my Master's exchange in Heidelberg, offered by the Max Planck Institute for Polymer Research in collaboration with Heidelberg University.
 https://www.mpip-mainz.mpg.de/ws-2025-26-lectures-and-hands-on-sessions-in-computational-molecular-biophysics
 
 ## Folder Description
